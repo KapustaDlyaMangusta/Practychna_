@@ -18,4 +18,6 @@ int main()
 
     printf("Minimum element in array: \n", location + 1, array[location]);
     return 0;
+
+    //234
 }
